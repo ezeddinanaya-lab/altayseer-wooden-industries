@@ -49,17 +49,17 @@ Place your own images in the `/images/` folder with these filenames:
 ### Update Contact Details
 In `index.html`, find the **Contact** section and update:
 ```html
-<span>Industrial Area, Abu Dhabi, UAE</span>   ← Your address
-<span>+971 XX XXX XXXX</span>                  ← Your phone
+<span>Jurf Industrial Area, Ajman, UAE</span>   ← Your address
+<span>+971 504245923</span>                  ← Your phone
 <span>info@altayseer.ae</span>                 ← Your email
-<span>Sun – Thu: 8:00 AM – 6:00 PM</span>     ← Your hours
+<span>Sat – Thu: 8:00 AM – 6:00 PM</span>     ← Your hours
 ```
 
 ### Update Social Links
 In `index.html`, footer section:
 ```html
-<li><a href="#">Instagram</a></li>   ← Replace # with your profile URLs
-<li><a href="#">Facebook</a></li>
+<li><a href="https://www.instagram.com/altaysir.tsa?igsh=MXFyMGV4ajk2YzI3dg%3D%3D&utm_source=qr&wa_status_inline=true">Instagram</a></li>   ← Replace # with your profile URLs
+<li><a href=": https://www.tiktok.com/@altaysir.tsa?_r=1&_t=ZS-95cBscPR77x">Tiktok</a></li>
 ```
 
 ### Change Colors
